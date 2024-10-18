@@ -11,6 +11,8 @@ Beyond just hardware and software configuration, this GPT offers practical advic
 #
 
 ![Retro Pi Game](https://github.com/user-attachments/assets/1ee5926d-3275-4a5c-9408-a6c16af0a166)
+#
+![Retro](https://github.com/user-attachments/assets/a5ae2782-55ee-4c64-9672-ad7f168e0a40)
 
 #
 ### Related Links
